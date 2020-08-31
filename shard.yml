@@ -9,6 +9,6 @@ crystal: 0.34.0
 dependencies:
   pegmatite:
     github: jemc/crystal-pegmatite
-    branch: master
+    commit: 6b928034cdda63ca8dff597f2aa6564ba24343cb
 
 license: MIT
